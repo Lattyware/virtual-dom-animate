@@ -1,0 +1,11 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "next-tick": "0.2.2",
+    "global": "4.3.0"
+  },
+  "devDependencies": {
+    "browserify": "11.1.0"
+  }
+}
